@@ -40,6 +40,7 @@ public class age_checker {
             }
 
         // Check if the user is a student
+        // Side quest
         // We can use a while loop to keep asking the user until they give us a valid answer
         while (true) {
             System.out.println("Are you a student? (true/false): ");
